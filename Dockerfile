@@ -6,4 +6,4 @@ RUN yum install -y wget telnet bind-utils iputils
 
 CMD tail -f /dev/null
 
-USER 1001
+USER root
