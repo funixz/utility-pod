@@ -1,2 +1,2 @@
-# rhel7-utility-container
+# utility-container
 Utility container for running troubleshooting commands
